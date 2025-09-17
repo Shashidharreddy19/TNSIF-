@@ -43,11 +43,11 @@ public class constructoroverloading {
 		        s1.display();
 
 		        // Using Constructor 2
-		        Student s2 = new Student(101, "Alice");
+		        Student s2 = new Student(101, "shashi");
 		        s2.display();
 
 		        // Using Constructor 3
-		        Student s3 = new Student(102, "Bob", 85.5);
+		        Student s3 = new Student(102, "rohith", 85.5);
 		        s3.display();
 		    }
 		}
